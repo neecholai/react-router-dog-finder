@@ -1,0 +1,8 @@
+.Nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: darkgrey;
+  opacity: 0.5;
+  padding: 10px;
+  color: white;
+}

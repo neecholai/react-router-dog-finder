@@ -1,0 +1,16 @@
+.DogList {
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 18px;
+  background-color: bisque;
+}
+
+.DogList-img {
+  width: 150px;
+  height: 150px;
+  padding: 0 30px;
+}
